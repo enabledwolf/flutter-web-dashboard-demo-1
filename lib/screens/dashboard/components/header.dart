@@ -62,7 +62,7 @@ class ProfileCard extends StatelessWidget {
             Padding(
               padding:
                   const EdgeInsets.symmetric(horizontal: defaultPadding / 2),
-              child: Text("Ashish Suthar"),
+              child: Text("Ashish  Suthar"),
             ),
           Icon(Icons.keyboard_arrow_down),
         ],
